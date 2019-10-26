@@ -13,6 +13,7 @@ function App() {
 				</p>
 				<p>Somos los mejores !!!!</p>
 				<p>Y estamos ensayando Github Collaboration</p>
+				<p>Cambio simultaneo con Alejo</p>
 				<a
 					className="App-link"
 					href="https://reactjs.org"
