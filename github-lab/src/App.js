@@ -15,6 +15,7 @@ function App() {
 				<p>Y estamos ensayando Github Collaboration</p>
 				<p>Cambio simultaneo con Alejo</p>
 				<p>Listo para mi BRANCH</p>
+				<p>Cambio unicamente en Henry BRANCH</p>
 				<a
 					className="App-link"
 					href="https://reactjs.org"
